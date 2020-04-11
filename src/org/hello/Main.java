@@ -5,7 +5,7 @@ public class Main {
 
         System.out.println("Hello world");
         System.out.println("Hello Nepal");
-
+        System.out.println("maharjan00");
         System.out.println("This commit is made from nirumahrjan1 branch");
 
         System.out.println("check");
@@ -13,6 +13,7 @@ public class Main {
         for(i =1; i<10; i++){
             System.out.println(i);
         }
+
 
     }
 
