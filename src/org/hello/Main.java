@@ -10,6 +10,10 @@ public class Main {
 
         System.out.println("check");
 
+        for(i =1; i<10; i++){
+            System.out.println(i);
+        }
+
     }
 
 
