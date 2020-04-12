@@ -26,6 +26,7 @@ public class Main {
         System.out.println("i love working");
         System.out.println("This is from niru hue master branch");
         System.out.println("niru hue");
+        System.out.println("niru hue 1");
 
 
 
