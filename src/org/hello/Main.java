@@ -19,7 +19,7 @@ public class Main {
         System.out.println("test");
         int[] arr = {1,2,3,4,5,6};
         System.out.println("hi");
-        System.out.println("This one is out from niru-hue master branch");
+        System.out.println("This one is out from niru maharjan master branch");
 
 
 
